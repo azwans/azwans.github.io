@@ -25,6 +25,8 @@ This website is a digital haven where I share my experiences, knowledge, and the
 If you stumble upon this little corner of mine by chance, I hope you'll find something here that resonates with you. 
 
 Feel free to explore and thank you for dropping by! 😁
-  
+
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Funohu&label=unohu)
+
   <img src="/content/images/halfAI_halfhooman.png" alt="halfhoomanhalfAI" width="150" height="60">
 
