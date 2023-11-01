@@ -16,6 +16,9 @@ markup:
   highlight:
     noClasses: false
 
+  # enable hextra icons
+  enableInlineShortcodes: true
+
 menu:
   main:
     - name: Docs
@@ -25,8 +28,10 @@ menu:
       pageRef: /about
       weight: 2
     - name: Contact ↗
-      url: "syaffiq@gmail.com"
+      url: "mailto:syaffiq@gmail.com"
       weight: 3
+      params:
+        icon: mail
     - name: Search
       weight: 4
       params:
@@ -41,6 +46,11 @@ menu:
       url: "https://twitter.com/unohu"
       params:
         icon: x-twitter
+    - name: Instagram
+      weight: 7
+      url: "https://instagram.com/unohu"
+      params:
+        icon: instagram
 
 params:
   navbar:
@@ -49,7 +59,7 @@ params:
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
     enable: false
