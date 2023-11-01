@@ -17,7 +17,7 @@ toc: false
 {{< cards >}}
   {{< card link="docs" title="Docs" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
-  {{< card link="resume" title="My Resume" icon="user" >}}
+  {{< card link="docs/resume" title="My Resume" icon="user" >}}
 {{< /cards >}}
 
 ## Documentation
