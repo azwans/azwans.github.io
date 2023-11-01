@@ -28,5 +28,4 @@ Feel free to explore and thank you for dropping by! 😁
 
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Funohu&label=unohu)
 
-  <img src="/content/images/halfAI_halfhooman.png" alt="halfhoomanhalfAI" width="150" height="60">
 
