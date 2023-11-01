@@ -58,9 +58,7 @@ params:
     displayLogo: false
 
   footer:
-    displayCopyright: true
-      url: https://img.shields.io/badge/v1.0-violet?style=social&label=unohu.org&labelColor=green&color=violet
- 
+    displayCopyright: false
     displayPoweredBy: false
 
   editURL:
