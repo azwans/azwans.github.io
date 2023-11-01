@@ -26,5 +26,5 @@ If you stumble upon this little corner of mine by chance, I hope you'll find som
 
 Feel free to explore and thank you for dropping by! 😁
   
-  <img src="/content/images/halfAI_halfhooman.webp" alt="halfhoomanhalfAI" width="150" height="60">
+  <img src="/content/images/halfAI_halfhooman.png" alt="halfhoomanhalfAI" width="150" height="60">
 
