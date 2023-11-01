@@ -5,7 +5,7 @@ prev: /
 next: docs/folder/
 ---
 
-A placeholder for my curriculum vitae.
+A placeholder for my curriculum vitae. Or you can see more here: [read.cv/unohu](https://read.cv/unohu)
   
 
 #### TLDR

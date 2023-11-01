@@ -20,6 +20,6 @@ toc: false
   {{< card link="/docs/resume" title="My Resume" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
+## Contact
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+For more information or enquiries: Check out my [Bento](https://bento.me/unohu) and [Linktree](https://linktr.ee/unohu)
