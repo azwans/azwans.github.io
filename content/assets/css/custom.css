@@ -1,0 +1,13 @@
+.content {
+  font-family: "Fira-sans", fixedsys, Segoe UI;
+}
+
+.title {
+  font-family: "Segoe UI", Montserrat;
+  font-size: 18px;
+}
+
+root {
+  --primary-hue: 100deg;
+  --primary-saturation: 90%;
+}
