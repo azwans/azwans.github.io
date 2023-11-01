@@ -26,6 +26,7 @@ If you stumble upon this little corner of mine by chance, I hope you'll find som
 
 Feel free to explore and thank you for dropping by! 😁
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Funohu&label=unohu)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Funohu&style=social&label=%40Unohu&link=https%3A%2F%2Ftwitter.com%2Funohu)
+
 
 
