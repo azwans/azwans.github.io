@@ -22,6 +22,6 @@ A perpetual learner at heart, I am often found delving into code. Whether it's l
 
 This website is a digital haven where I share my experiences, knowledge, and the things that bring me joy. You'll find a mix of technology-related content, personal stories, gaming tidbits, and maybe glimpses into the world of anime. 
 
-Whether you find this little corner of mine by chance, I hope you'll find something here that resonates with you. 
+Whether you stumble upon this little corner of mine by chance, I hope you'll find something here that resonates with you. 
 
 Feel free to explore and thank you for dropping by! 😁
