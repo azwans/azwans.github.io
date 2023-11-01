@@ -52,7 +52,7 @@ menu:
       params:
         icon: instagram
 
-params:
+
   navbar:
     displayTitle: true
     displayLogo: false
