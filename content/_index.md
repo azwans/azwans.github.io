@@ -2,8 +2,7 @@
 title: Syaffiq Azwan
 toc: false
 ---
-  
-&nbsp;  
+
 
 *<p align="center">The world is tragedy for those who feels, and comedy for those who thinks.</p>*
   
