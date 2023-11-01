@@ -14,17 +14,17 @@ Outside the confines of the tech world, I like to believe I am an ardent family 
 
 In my downtime, I find solace in the world of anime, where captivating stories and diverse-world *(isekai anyone?)* narratives often capture my imagination. Whether it's playing games, be it on mobile, PS4, or delving into text-based adventures, I enjoy the thrill of gaming and the immersive stories they offer.
 
-A perpetual learner at heart, I am often found delving into code. Whether it's learning new languages or tinkering existing ones, the world of programming allows me to create and innovate in the digital realm.  Journaling is a practice that allows me to reflect on life's experiences and reading light novels is a fascinating escape into different worlds and narratives.
+A perpetual learner at heart, I am often found delving into code although I admit I am not very good at it. Whether it's learning new languages or tinkering existing ones, the world of programming allows me to create and innovate in the digital realm. Journaling or note-taking is a practice that allows me to reflect on life's experiences and reading light novels is a fascinating escape into different worlds and narratives.
   
 
 
 ### Why This Website?
 
-This website is a digital haven where I share my experiences, knowledge, and the things that bring me joy. You'll find a mix of technology-related content, personal stories, gaming tidbits, and maybe glimpses into the world of anime. 
+This website is a digital haven where I share my experiences, knowledge, and the things that bring me joy. You'll find a mix of technology-related content, personal stories, gaming tidbits, and maybe glimpses into the world of my *otaku-ness*. 
 
 If you stumble upon this little corner of mine by chance, I hope you'll find something here that resonates with you. 
 
 Feel free to explore and thank you for dropping by! 😁
   
-  <img src="./../content/images/halfAI_halfhooman.webp" alt="halfhoomanhalfAI" width="150" height="60">
+  <img src="/content/images/halfAI_halfhooman.webp" alt="halfhoomanhalfAI" width="150" height="60">
 
