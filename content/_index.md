@@ -3,10 +3,11 @@ title: Syaffiq Azwan
 toc: false
 ---
   
+&nbsp;  
+
+*<p align="center">The world is tragedy for those who feels, and comedy for those who thinks.</p>*
   
-<p align="center">
-*The world is tragedy for those who feels, and comedy for those who thinks.*  
-</p>  
+&nbsp;
 
 {{< callout type="info" >}}
   Welcome to my personal page with some of my work in progress. Feel free to browse around.
