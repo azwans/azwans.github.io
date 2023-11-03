@@ -19,7 +19,7 @@ An *abridged* version.
 
 {{% details title="Stuff that I can work with:" %}}
 
-![environment](/content/images/dev.PNG)
+![environment](/img/dev.PNG)
 
 {{% /details %}}
 
