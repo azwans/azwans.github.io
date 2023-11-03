@@ -19,7 +19,9 @@ An *abridged* version.
 
 {{% details title="Stuff that I can work with:" %}}
 
-![environment](/img/dev.PNG)
+Testing
 
 {{% /details %}}
+
+![environment](/img/dev.PNG)
 
