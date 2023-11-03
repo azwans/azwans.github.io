@@ -23,5 +23,5 @@ Testing
 
 {{% /details %}}
 
-![environment](img/dev.PNG)
+![environment](/content/images/dev.PNG)
 
