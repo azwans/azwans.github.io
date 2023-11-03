@@ -17,12 +17,9 @@ An *abridged* version.
 
 #### Environment
 
-`Stuff that I can work with:`  
+{{% details title="Stuff that I can work with:" %}}
 
-{{% details title="Tools & Development" %}}
-
-![environment](./../images/dev.PNG)
-
+![environment](https://azwans.github.io/content/images/dev.PNG)
 
 {{% /details %}}
 
