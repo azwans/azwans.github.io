@@ -23,5 +23,5 @@ Testing
 
 {{% /details %}}
 
-![environment](../images/dev.PNG)
-
+![List of tools](images/dev.PNG)
+ 
