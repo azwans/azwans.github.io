@@ -23,5 +23,5 @@ Testing
 
 {{% /details %}}
 
-![environment](/img/dev.PNG "Dev items")
+![environment](img/dev.PNG)
 
