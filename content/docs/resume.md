@@ -19,9 +19,9 @@ An *abridged* version.
 
 {{% details title="Stuff that I can work with:" %}}
 
-Testing
+![List of tools](images/dev.PNG)
 
 {{% /details %}}
 
-![List of tools](images/dev.PNG)
+
  
