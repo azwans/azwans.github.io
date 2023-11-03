@@ -21,7 +21,7 @@ An *abridged* version.
 
 {{% details title="Tools & Development" %}}
 
-![environment](./../images/dev.png)
+![environment](./content/images/dev.png)
 
 
 {{% /details %}}
