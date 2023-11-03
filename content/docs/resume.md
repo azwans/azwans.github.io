@@ -17,4 +17,3 @@ A placeholder for my curriculum vitae which is currently under construction. Or 
 {{< /tab >}}
 {{< /tabs >}}
 
-
