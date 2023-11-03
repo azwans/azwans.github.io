@@ -19,9 +19,7 @@ An *abridged* version.
 
 {{% details title="Stuff that I can work with:" %}}
 
-![environment](https://azwans.github.io/content/images/dev.PNG)
+![environment](/content/images/dev.PNG)
 
 {{% /details %}}
-
-
 
