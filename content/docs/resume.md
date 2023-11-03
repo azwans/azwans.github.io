@@ -20,9 +20,9 @@ An *abridged* version.
 `Stuff that I can work with:`  
 
 {{% details title="Tools & Development" %}}
-<p align="left">
-![environment](./content/images/dev.png)
-</p>
+
+![environment](./../images/dev.png)
+
 
 {{% /details %}}
 
