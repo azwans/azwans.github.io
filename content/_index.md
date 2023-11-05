@@ -23,3 +23,10 @@ toc: false
 ## Contact
 
 For more information or enquiries: Check out my [Bento](https://bento.me/unohu) and [Linktree](https://linktr.ee/unohu)
+
+<div id='verses2'></div>
+    <div id='translation'></div>
+    <script 
+      chapter=93 verse=6 count=5 selector='#verses2' trans='#translation'
+      src="http://qzaidi.github.io/quran/js/quran.js">
+</script>
