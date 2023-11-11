@@ -4,7 +4,8 @@ type: docs
 prev: /
 next: docs/folder/
 ---
-This is a placeholder for my curriculum vitae which is currently under construction. Or you can see more here: [read.cv/unohu](https://read.cv/unohu).
+This is a placeholder for my curriculum vitae which is currently under construction. Or you can see my current resume here: [Resume](https://rsm.io/syaffiq).
+
 &nbsp;
 
 #### TLDR
