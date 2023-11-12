@@ -16,7 +16,7 @@ Outside of the confines of the tech world, I like to think I am a passionate fam
 In my free time, I find solace in the world of light novels and  anime, where captivating stories and tales from different worlds (Isekai anyone?) often spark my imagination. Sometimes, I tend to enjoy the thrill of games, mostly the engaging stories they provide.
 
 
-I am constantly learning and can often be found immersing myself in code, although I have to admit I am not very good at it. Whether I’m learning new languages or tinkering with existing ones, the world of coding allows me to create and innovate. Other than that, I love keeping journals or writing down notes, which is a practice that allows me to plan and reflect on my life experiences.    
+My passion for coding is a constant one, and I am often immersed in it, albeit not very good at it. I love to create and innovate with coding, whether I am learning a new language or tweaking an existing one. My other favorite practice is writing down notes and journals, which allow me to plan and reflect on my life. 
 
 
 ### This Website?
